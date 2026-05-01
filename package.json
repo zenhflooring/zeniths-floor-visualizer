@@ -1,0 +1,10 @@
+{
+  "name": "zenith-heights-floor-visualizer",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "replicate": "^0.31.0",
+    "formidable": "^3.5.1",
+    "node-fetch": "^3.3.2"
+  }
+}
